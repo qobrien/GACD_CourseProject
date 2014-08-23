@@ -86,4 +86,6 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 * fBodyBodyGyroJerkMag-mean()
 * fBodyBodyGyroJerkMag-std()
 
+All linear acceleration variables are given in units of standard gravity (g), and all angular velocity variables are given in units of radians/second.
+
 The final variables seen in "tidy_data_means_only.txt" are actually the Mean of each of these variables for each subject (1-30) and each activity (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING).
